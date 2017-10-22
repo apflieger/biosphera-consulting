@@ -2,12 +2,15 @@ body {
 	font-family: 'Lato', sans-serif;
 	text-align: center;
 	color: #4689AC;
-
-	
-	
+	font-size: 1.25rem;
 }
 img {
 	width: 236px;
 	height: 236px;
 }
-
+.value-proposition {
+	background: #4689AC;
+	color: white;
+	padding: 1rem;
+	border-radius: 20px;
+}
