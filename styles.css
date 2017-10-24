@@ -29,6 +29,9 @@ img.logo {
 }
 .value-proposition {
 	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
 	background: #4689AC;
 	color: white;
 	padding: 1rem;
