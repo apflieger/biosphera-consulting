@@ -4,11 +4,14 @@ body {
 	color: #424242;
 	font-size: 1.5rem;
 }
+.langue {
+	height: 2rem;
+	width: 3rem;
+}
 h1, h2 {
 	color: #3E83A8;
 	font-size: 2em;
 }
-
 h1 {
 	margin-top: 3rem;
 	margin-bottom: 5rem;
@@ -20,7 +23,7 @@ h2 {
 h3 {
 	font-size: 1.33em;
 }
-img {
+img.logo {
 	width: 236px;
 	height: 236px;
 }
@@ -46,4 +49,7 @@ img {
 }
 .value-proposition ul {
 	text-align: left;
+}
+.frb {
+	max-width: 100%;
 }
