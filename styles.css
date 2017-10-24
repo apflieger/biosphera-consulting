@@ -33,4 +33,20 @@ img {
 	color: white;
 	padding: 1rem;
 	border-radius: 20px;
+	font-size: .8em;
+}
+.value-proposition :first-child {
+	font-weight: bold;
+}
+.value-proposition div:nth-child(2) {
+	 font-style: italic;
+}
+.value-proposition div:nth-child(2):before {
+	content: "«"
+}
+.value-proposition div:nth-child(2):after {
+	content: "»"
+}
+.value-proposition ul {
+	text-align: left;
 }
